@@ -4,7 +4,7 @@
 User Function Projeto01()
 
 Private oDLG1 
-Private cTituloJanela := "Cadastr01 - Primeira tela em ADVPL Protheus"
+Private cTituloJanela := "Cadastro01 - Primeira tela em ADVPL Protheus"
 
 //dECLARAR AS VARIAVES DO FOLDEER/PASTA
 Private oFolder
