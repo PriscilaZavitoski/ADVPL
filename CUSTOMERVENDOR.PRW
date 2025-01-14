@@ -38,8 +38,9 @@ IF aParam[2] <> Nil //(se clicar em incluir/alterar/excluir/visualizar)
              xRet := .F.
         ENDIF   
 
+    ELSEIF cIdPonto == "BUTTONBAR"
+        xRet := {{"Produto x Fornecedor","Produto x Fornecedor",{||MATA061()},"Cahama a amarração Prod x Forn"}}
     ENDIF
-
 ENDIF    
 
 
